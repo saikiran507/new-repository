@@ -1,4 +1,4 @@
 dotnet new console -o sampl
-sample1
+sample2
 dotnet run
  sample
