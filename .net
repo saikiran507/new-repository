@@ -1,4 +1,4 @@
-dotnet new console -o sample1
-cd sample1
+dotnet new console -o sampl
+sample1
 dotnet run
  sample
